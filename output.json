@@ -1,0 +1,8 @@
+{
+    "company_id": 123,
+    "company_name": "MYCOMPANY",
+    "urls": [
+      "http://mycompany.com:80",
+      "https://mycompany.com:443"
+]
+  }
